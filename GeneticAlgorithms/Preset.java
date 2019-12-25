@@ -1,6 +1,5 @@
 package GeneticAlgorithms;
 
-import GeneticObjects.Population;
 import IO.Import.DataSet;
 
 import java.util.Random;
